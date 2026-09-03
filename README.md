@@ -1,4 +1,4 @@
-# Kenya's Education Sector PowerBI project
+# Kenya's Education Sector Perfomance Analysis
 
 ## Overview
 Educational institutions manage large ecosystems that comprise students, teachers, academic testing and grading methods, 
