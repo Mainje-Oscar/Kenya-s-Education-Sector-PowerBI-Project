@@ -1,4 +1,4 @@
-# Kenya's Education Sector Perfomance Analysis
+# Kenya's Education Sector Performance Analysis
 
 ## Overview
 Educational institutions manage large ecosystems that comprise students, teachers, academic testing and grading methods, 
